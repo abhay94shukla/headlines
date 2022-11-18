@@ -1,6 +1,10 @@
 # headlines
 
-A new Flutter project.
+short news app made with flutter and news api
+![alt text](https://github.com/abhay94shukla/headlines/blob/main/assets/ss1.jpeg)
+![](https://github.com/abhay94shukla/headlines/blob/main/assets/ss2.jpeg)
+![](https://github.com/abhay94shukla/headlines/blob/main/assets/ss3.jpeg)
+
 
 ## Getting Started
 

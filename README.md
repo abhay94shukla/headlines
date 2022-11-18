@@ -1,10 +1,8 @@
 # headlines
 
 short news app made with flutter and news api
-<img src="https://github.com/abhay94shukla/headlines/blob/main/assets/ss1.jpeg" width="100" height="100">
-![alt text](https://github.com/abhay94shukla/headlines/blob/main/assets/ss1.jpeg)
-![](https://github.com/abhay94shukla/headlines/blob/main/assets/ss2.jpeg)
-![](https://github.com/abhay94shukla/headlines/blob/main/assets/ss3.jpeg)
+<img src="https://github.com/abhay94shukla/headlines/blob/main/assets/ss1.jpeg" width="200">
+
 
 
 ## Getting Started

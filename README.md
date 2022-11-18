@@ -1,6 +1,6 @@
 # headlines
 
-short news app made with flutter and news api
+short news app made with flutter and news api<br>
 <img src="https://github.com/abhay94shukla/headlines/blob/main/assets/ss1.jpeg" width="200">
 <img src="https://github.com/abhay94shukla/headlines/blob/main/assets/ss2.jpeg" width="200">
 <img src="https://github.com/abhay94shukla/headlines/blob/main/assets/ss3.jpeg" width="200">
